@@ -1,0 +1,106 @@
+---
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Álvaro
+  last_name: M. Villar
+  motto: I chose the red pill.
+  focus: To the max!
+  summary: |
+    Always looking forward to improve on my skills and become a greater asset.
+
+    It's time to work hard.
+  avatar: null
+  email: example@a.com
+  phone: 000 0000 000
+  website: abcd.com
+  linkedin: idon'thaveitjustyet
+  github: amv87
+  twitter: donothaveone.
+  stack-overflow: nope
+  languages:
+    - idiom: English
+      level: C2 Proficiency
+    - idiom: French
+      level: Un petit peu
+    - idiom: Spanish
+      level: Native
+  interests:
+    - item: Eating desserts
+    - item: Listening to music
+    - item: Films
+education:
+  - degree: BSc in Psychology
+    university: UNED
+    university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    time: 1010 - 1013
+    details: |
+      "Knowing yourself is the beginning of all wisdom."
+
+        - Social behaviour
+        - Emotional intelligence
+  - degree: BSc in Geology
+    university: Complutense University
+    university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    time: 2005 - 2007
+    details: >
+      Being able to look at a landscape and take a look at its past, it's an
+      amazing thing to do.
+
+        - Paleontology
+        - Stratigraphy
+experiences:
+  - role: AI data trainer
+    time: 2022 - Present
+    company: null
+    company_logo: null
+    details: |
+      Job description.
+
+        - 
+        - 
+projects:
+  intro: >
+    You can list your side projects or open source libraries in this section.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et
+    ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Velocity
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#hook"
+      tagline: A responsive website template designed to help startups promote, market
+        and sell their products.
+    - title: DevStudio
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A responsive website template designed to help web developers/designers
+        market their services.
+    - title: Tempo
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A responsive website template designed to help startups promote their
+        products or services and to attract users &amp; investors
+    - title: Atom
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A comprehensive website template solution for startups/developers to
+        market their mobile apps.
+    - title: Delta
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A responsive Bootstrap one page theme designed to help app developers
+        promote their mobile apps
+skills:
+  toolset:
+    - name: Python & Django
+      level: 98%
+    - name: JavaScript & jQuery
+      level: 98%
+    - name: Angular
+      level: 98%
+    - name: HTML5 & CSS
+      level: 95%
+    - name: Ruby on Rails
+      level: 85%
+    - name: Sketch & Photoshop
+      level: 60%
